@@ -1,5 +1,6 @@
 # CNCtoolpathoptimize
 
-this project was for Material and Manufacturing Processes course on 2015 spring.
+This project was for Material and Manufacturing Processes course on 2015 spring.
 
-it optimizes CNC tool path with using genetic algoritm.
+It optimizes CNC tool path with using genetic algoritm.
+
